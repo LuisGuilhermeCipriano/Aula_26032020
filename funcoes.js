@@ -10,7 +10,7 @@ while (x>=y)
     x--;
 }
 
-if (x=0)
+if (x==0)
 {
     alert("Brincadeira kk");
 }
