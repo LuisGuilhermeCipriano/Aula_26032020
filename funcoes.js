@@ -1,16 +1,16 @@
 //Atividade
 
-var x = 0;
-var y = 10;
+var x = 10;
+var y = 0;
 var brincadeira = "Seu computador vai desligar em ";
 
-while (x<=y)
+while (x>=y)
 {
     alert(brincadeira + x);
-    x++;
+    x--;
 }
 
-if (x=10)
+if (x=0)
 {
     alert("Brincadeira kk");
 }
